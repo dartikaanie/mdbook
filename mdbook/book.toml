@@ -1,0 +1,6 @@
+[book]
+authors = ["dartikaanie"]
+language = "en"
+multilingual = false
+src = "src"
+title = "testing"
